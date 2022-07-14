@@ -1,0 +1,7 @@
+The min of [1, 2, 3, 4, 5, 6] is 0
+The max of [1, 2, 3, 4, 5, 6] is 6
+The avg of [1, 2, 3, 4, 5, 6] is 3
+The sum of [1, 4, 5, 6, 7, 7, 8] is 38
+The 90th percentile of [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] is 9
+The sum of [1, 2, 3, 5, 6] is 17
+The 70th percentile of [1, 2, 3] is 2

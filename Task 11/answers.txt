@@ -1,0 +1,33 @@
+1.
+ * Waterfall model
+   With an anti-lock system in a car, all requirements will be known from the start, thus all the team members 
+   will know what their role is from the beginning. They will then start carefully planning and working on their 
+   system as not a lot of changes will be made to the requirements if any. For these reasons the waterfall model will be most 
+   suitable.
+
+ * Incremental model
+   A VR system for supporting maintenance will require a lot of adjustments. As new requirments arise the software
+   will need to be updated and adjusted to fit the clients needs. For these reasons the incremental model seems to
+   to be the required procedure to build this system.
+
+ * Reuse-oriented model
+   To replace an acounting system at a university you can look at the existing components in place and determine which
+   of those can be reused in the new program or modified to fit the new program's needs. Afterward new components can be
+   created for all needs not met. For these resons the reuse-oriented model will be most suitable.
+
+ * Reuse-oriented model
+   For an interactive travel planning system you wil require a lot of components, thus it will be wise to do some research
+   to see if you can't find components that already meet your needs or at least some. You can then modify these components
+   to fit your requirements and build the components you could not find. for these reasons I would suggest the reuse-oriented
+   model.
+
+2.When developing software for a bussiness the requirements might change often depending on the needs of the 
+  bussiness. This is why incremental development will make sense to use as you can build systems with some
+  of the most neccesary features and present it to the client who can then give feedback and adjustments can
+  be made. With real time systems you usually use hardware modules that can't be changed easily. Real time systems
+  also usually involve security and safety which requires very well planned procedure.Thus for the purpose of
+  developing real time systems incremental development will not be the preferred model.
+
+3.The first is to establish the requirements of the software and what exactly the client wants the program to do.
+  The second requirement process is to modify the requirements in the first process to work with the found 
+  components.

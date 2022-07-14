@@ -1,0 +1,26 @@
+1. It is important to make sure the program does what is intended regardless of any defects. Once the program meets
+   the specifications set by the customer you can start polishing the program and rid it of any errors or defects.
+
+   You can't detect something that does not exist. For a program to detect an error it must already be present otherwise
+   in its absence the error does not "exist" and therefore cannot be detected.
+
+2. Pros - Once a developer detects an error they made they can correct it and prevent themselves from doing it again.
+	  If left undetected the developer may make the mistake again when programming something similar.
+          
+          The developers can have a better idea of where the error lies if they see the results of the
+          testing eg. seeing that 2 numbers multiply instead of add up.
+
+	  Developers can detect errors with testing as they code where 3rd party testers can only have
+   	  access to the program once the developer has a prototype for them to test.
+
+   Cons - 3rd party testers look for specific behaviour from the program and can easily detect major errors.
+
+	  When a developer has been working with and staring at the same code for a very long time it can be quite
+	  difficult to detect small error in the program.
+          
+          Independent testing allows the program to be used in diffirent ways by different users. This produces more detailed results
+	  about the errors and defects in the program than one developer could detect.
+
+3. This is a good approach as the developers can do as much testing from their side as possible to detect as many errors as
+   posible. Afterwards when the testing budget is exausted, the developers can then hand the testing over to the customer for
+   further testing and detection of errors, which the developers might have missed or did not have the testing budget for.

@@ -1,0 +1,19 @@
+1. Working software over comprehensive documentation.
+   This could land a software team in trouble as full documentation is quite important for software and for
+   users looking to use the software. Clients will want to know what their software does and how to use it
+   efficiently and with incomplete documentation this can become difficult.
+
+   Responding to change over following a plan.
+   This value can get a team in trouble as a constant response to change makes the end result very difficult
+   to see. Constant changes can also be time consuming and costly. Thus having a plan in place and a known 
+   end result can sometimes be better than costantly changing your end goal.
+
+2. Agility means to be able to move around quickly with ease.
+
+3. Problems can arise and certain circumstances can change the requirements. The Client can also realise that
+   there are some features that they want to add after seeing versions of the software which may change the 
+   requirements.
+
+4. It gives the developer and in-depth understanding of the task at hand and what the software aims to 
+   accomplish. It prevents errors that might occur and also helps ensure that the developer meets all
+   the requirements for the task given. 
