@@ -1,0 +1,1 @@
+2514, House Johnson, House, 123 Piet str, 1234, 500000, 400000, 2022, 04, 08, Architect, Piet, 0129956847, piet@pietworx.co.za, 1 Pietsehuis str, Contractor, Jan, 0129946846, jan@janneman.co.za, 1 Jansehuis str, Customer, Gerrie, 0129946846, gerrie@gertland.co.za, 1 Gertsehuis str, false, null
